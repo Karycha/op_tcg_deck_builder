@@ -1,4 +1,3 @@
-"""Stary punkt wejścia — uruchamia pakiet `op_tcg`."""
 from op_tcg.main import run
 
 if __name__ == "__main__":
